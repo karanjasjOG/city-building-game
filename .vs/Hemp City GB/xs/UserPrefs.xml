@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D9AA920B-53F3-055F-9A0B-6F83DEF0C077}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a1cdbc2c-ac30-4e35-8a43-6994f414f9e5" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SellPanel2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Trade.cs" Line="14" Column="6" IsPinned="True" />
+      <File FileName="Assets/Scripts/GiveItToSell.cs" Line="16" Column="1" IsPinned="True" />
+      <File FileName="Assets/Scripts/SellPanel2.cs" Line="20" Column="1" IsPinned="True" />
+      <File FileName="Assets/Scripts/InEverythingDict.cs" Line="4" Column="8" IsPinned="True" />
+      <File FileName="Assets/Scripts/Focus.cs" Line="24" Column="9" />
+      <File FileName="Assets/Scripts/OpenCloseShopStore.cs" Line="57" Column="6" />
+      <File FileName="Assets/Scripts/BuyNow.cs" Line="25" Column="29" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" />
+      <File FileName="Assets/Scripts/Inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GridBuildingSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlaceOrNot.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Building.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UpdateText.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DeactivateGameobject.cs" />
+      <File FileName="Assets/Scripts/OpenAndCloseMenu.cs" />
+      <File FileName="Assets/Scripts/Alert.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
